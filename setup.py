@@ -14,7 +14,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='mingtak.folder_contents',
-    version='1.0a1',
+    version='1.1',
     description="Replace Plones @@folder_contents template",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers
