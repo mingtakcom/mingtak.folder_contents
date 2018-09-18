@@ -6,33 +6,14 @@
 mingtak.folder_contents
 =======================
 
-Tell me what your product does
+folder_contents 滑鼠拖曳常會有問題，暫時以本模組為替代方案
 
 Features
 --------
 
-- Can be bullet points
-
-
-Examples
---------
-
-This add-on can be seen in action at the following sites:
-- Is there a page on the internet where everybody can see the features?
-
-
-Documentation
--------------
-
-Full documentation for end users can be found in the "docs" folder, and is also available online at http://docs.plone.org/foo/bar
-
-
-Translations
-------------
-
-This product has been translated into
-
-- Klingon (thanks, K'Plai)
+- 拿掉 folder_contents 滑鼠拖曳排序功能
+- 另加一個 view, item_order, 可以拖拉排序
+- 二個頁面可以切換
 
 
 Installation
@@ -63,7 +44,7 @@ Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: project@example.com
+We have a mailing list located at: andy@mingtak.com.tw
 
 
 License
